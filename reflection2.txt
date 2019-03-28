@@ -1,0 +1,9 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+
+	To start commits, and all other git functions, it needs to be first initialized
+
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	The working area is files that have not yet been committed or interacted with git. Repository are officially committed files.Staging is 
+	what connects the working area to the repostiory
