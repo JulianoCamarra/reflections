@@ -1,0 +1,28 @@
+the plus minuses using command "diff" showed you all the differences between the two versions.
+condensed it all to just the differences.
+
+2) Easy access to history of your file lets you see how your program has developed througout each version. 
+   easy to catch changes in the longrun.
+
+3)PROS of manual commit: you have greater control over when you want to commit
+  CONS ofm manual commit: it's up to your disrection so you need to have good judgement.
+
+4)Coding doesnt just involve one document. theres so many files happening at once. So making sure everything is up-to-date at the same time is important.
+
+ whereas something like google doc, word documents are single, seperate, unrelated files
+
+5)How might using version control make you more confident to make changes that could break something?
+
+	you can always go back to a previous version if something breaks. so its ok if something breaks. 
+
+6)Now that you have your workspace set up, what do you want to try using Git for?
+
+	For knowing which commit (or head) I'm currently on. 
+
+COMMANDS LEARNED:
+
+diff -u (used to compare two versions of a text)
+checkout (used to change current version of a text)
+log (shows all commits made in a repository, with the most recent first)
+clone (copies an entire repository, including its history, onto your computer)
+
