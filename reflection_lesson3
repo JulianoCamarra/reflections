@@ -2,3 +2,21 @@
 
   When you don't have consistent access to the same computer that your repository is locally sotred. 
   Accessible from anywhere this way.
+
+
+
+ "A remote in your local repository is a reference to another repository"
+
+2)Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+
+   Your file may not yet be ready to be commited. Or sometimes the any changes
+   to the file may be small enough to not warrant a commit.
+
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+   Fork: clones from one github repository to a new github repository. makes explicit reference to the cloned repository.
+
+   Clone: copies the repository; can be both github or local. 
+
+   Branch: creates a new reference to a commit within the same repository
