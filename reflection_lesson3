@@ -24,3 +24,8 @@
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
    You work on the last known state offline. youre not depending on an internet connection.
+
+5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+   There are other version control softwares available if you don't use Github. Or you can share files locally. It would be easier in the sense that no internet would be required to be up-to-date,
+   but the organization would be messier.
