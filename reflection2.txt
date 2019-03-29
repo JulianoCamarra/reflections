@@ -7,3 +7,27 @@
 	
 	The working area is files that have not yet been committed or interacted with git. Repository are officially committed files.Staging is 
 	what connects the working area to the repostiory
+
+3)How can you use the staging area to make sure you have one commit per logical change?
+	
+	use the "git status" command to see what is in your current staging area and if they accomplish the same task
+
+4)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	branches are labelled so you can keep track of your history much easier
+
+5) How do the diagrams help you visualize the branch structure?
+
+	You can see the path they come from, as well as when certain commits diverged (branched)
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Everything in the non-master branch will be added to the master branch. its represented that way because it shows the branches now share 
+	one path. they are merged.
+
+
+COMMANDS LEARNED:
+
+	git status
+	git branch
+	git merge
