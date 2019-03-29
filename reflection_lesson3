@@ -29,3 +29,7 @@
 
    There are other version control softwares available if you don't use Github. Or you can share files locally. It would be easier in the sense that no internet would be required to be up-to-date,
    but the organization would be messier.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+   The separate branch may be development or experimental. it may not be ready for the master "main" branch. so you keep it separate until you're ready to merge it.
